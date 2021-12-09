@@ -1,9 +1,8 @@
-### Hi there I'm Siddhant Jain 👋
-<hr>
+# Hi there I'm Siddhant Jain 👋
 
-### I'm Full Stack Developer
-<hr>
-<br>
+
+## I'm Full Stack Developer
+
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Stazer Application project
