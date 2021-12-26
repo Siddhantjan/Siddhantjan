@@ -1,11 +1,11 @@
 # Hi there I'm Siddhant Jain 👋
 
 
-## I'm Full Stack Developer
+## I'm Android Developer
 
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Stazer Application project
+- 🔭 I’m currently working on an paid project.
 - 🌱 I’m currently learning Android App Development with Java 
 - 👯 I’m looking for a full Time Job in Software development
 <br>
