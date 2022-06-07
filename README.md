@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 </details>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Siddhantjan.visitor-badge)
 
 [website]: https://siddhantjan.github.io/
 [twitter]: https://twitter.com/ManojKumawat199
