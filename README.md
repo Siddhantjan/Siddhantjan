@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=siddhantjan)]
+  ![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=siddhantjan)
 
 </details>
 
