@@ -1,7 +1,7 @@
 # Hi there I'm Siddhant Jain 👋
 
 
-## I'm Android Developer
+## I'm Full Stack Developer
 
 
 Here are some ideas to get you started:
