@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on an paid project.
-- 🌱 I’m currently learning Android App Development with Java 
+- 🌱 I’m currently learning Full Stack Development with React & Node. 
 - 👯 I’m looking for a full Time Job in Software development
 <br>
 <br>
